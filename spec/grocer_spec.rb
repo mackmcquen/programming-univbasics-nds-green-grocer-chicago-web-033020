@@ -1,4 +1,4 @@
-describe "Grocer" do
+jdescribe "Grocer" do
   # let() is like a global variable for tests
   let(:items) do
     [
